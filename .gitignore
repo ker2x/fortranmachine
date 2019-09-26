@@ -1,1 +1,5 @@
 C++.gitignore
+build
+modules
+*.out
+*.exe
